@@ -1,6 +1,6 @@
 # chechulina_e_tyshchuk_v_project3
 # Description
-This project demonstrates a team work on website scaffold consisting of Design file(s), HTML and CSS files. The scaffold is based off of the wireframes selected from an each partner.
+This project demonstrates a team work of Elena Chechulina and Viktoriia Tyshchuk on the website scaffold consisting of Design files, HTML and CSS files. The scaffold is based off of the wireframes selected from an each partner.
 # MIT License
 MIT License Copyright (c) 2020 Elena Chechulina & Viktoriia Tyshchuk
 
